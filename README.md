@@ -18,3 +18,6 @@ k and left or right arrow  for sword slash ( need energy)
 only k for sword beam
 l to dodge
 n to sprint
+
+
+The link is https://samuel940.github.io/2-player-game/
